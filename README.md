@@ -20,6 +20,6 @@ Screenshots - Follow the screenshots for database structure, Login to Firebase c
 <img src="google assistant.png">
 
 ## Web
-<img src="Screenshots/web_home.png">
+<img src="web.png">
 
 
