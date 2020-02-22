@@ -16,5 +16,5 @@ Screenshots - Follow the screenshots for database structure, Login to Firebase c
 2. Firebase Realtime database
 3. Kommunicate/Bot Copy for rich UI experiece
 
-![Insurance Buddy](google assistant.png "google assistant")
+<img src="google assistant.png">
 
